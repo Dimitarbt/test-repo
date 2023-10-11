@@ -4,6 +4,11 @@ Description test
 
 Some text !!!
 
-##Subheader
+## Subheader
 
-Again some text !!s
+Again some text !!
+
+## Local Development   
+
+Open index.html 
+
